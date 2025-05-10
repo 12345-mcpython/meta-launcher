@@ -585,7 +585,7 @@
             "id": "client-1.12.xml",
             "sha1": "bd65e7d2e3c237be76cfbef4c2405033d7f91521",
             "size": 888,
-            "url": "https://piston-data.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+            "url": "https://bmclapi2.bangbang93.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
         },
         "type": "log4j2-xml"
     },
@@ -595,7 +595,7 @@
             "artifact": {
                 "sha1": "376d3cee0b5043b11163dfac67f0a6197c3e97bc",
                 "size": 27245042,
-                "url": "https://piston-data.mojang.com/v1/objects/376d3cee0b5043b11163dfac67f0a6197c3e97bc/client.jar"
+                "url": "https://bmclapi2.bangbang93.com/v1/objects/376d3cee0b5043b11163dfac67f0a6197c3e97bc/client.jar"
             }
         },
         "name": "com.mojang:minecraft:24w33a:client"
